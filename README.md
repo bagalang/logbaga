@@ -28,3 +28,7 @@ log_error("boom")?
 
 Fields: `ts` (wall ms), `level`, `msg`, optional `req_id`.
 Uses `std/json` `json_escape` for safe string values.
+
+## License
+
+[MIT](LICENSE) — Copyright (c) 2026 Dim Gigov.
